@@ -1,8 +1,10 @@
-# holman/ama
+# dancole/ama
 
-A repository to ask [@holman](https://twitter.com/holman) anything.
+A repository to ask [@dancole](https://twitter.com/dancole) anything.
 
-I [worked at GitHub](http://zachholman.com/about) for five years and have [written](http://zachholman.com) and [spoken](http://zachholman.com/talks) a lot about building company culture, improving your development workflow, and really important shit like emoji. If you have a question you're interested in reading me tap out a response for, this is just the joint for you.
+Life is short. Life is too short for bullshit. I think we all need to figure out what we love to do and what we hate to do. Thing we hate to do should be removed from our list of activities. Read [Life is Short](http://paulgraham.com/vb.html).  
+
+I think automation is great. I'm an engineer. I always have been, at least as long as I can remember and I remember when I was five. Back then I played with Lego, snow, and sand. I started using Autodesk AutoCAD when I was 8 and started programming at 11. All of this shaped how I think. I'm a problem solver.
 
 ### Ask a question
 
